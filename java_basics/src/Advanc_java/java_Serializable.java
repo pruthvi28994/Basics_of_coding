@@ -80,14 +80,7 @@ public class java_Serializable implements Serializable{
 		catch(Exception e) {
 			System.out.println(e);
 		}
-		
-		
-		
-		
-		
-		
-		
-		
+			
 	}
 	public String getName() {
 		return name;
