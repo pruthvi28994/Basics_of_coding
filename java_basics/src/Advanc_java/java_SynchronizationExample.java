@@ -18,7 +18,7 @@ public class java_SynchronizationExample extends Thread{
 		}
 	}
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		// T ODO Auto-generated method stub
 
 		java_SynchronizationExample t1=new java_SynchronizationExample();
 		java_SynchronizationExample t2=new java_SynchronizationExample();
