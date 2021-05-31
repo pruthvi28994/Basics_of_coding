@@ -32,6 +32,7 @@ public class java_String_handling {
 		System.out.println("8.Substring of the string1=>"+str1.substring(0,7));
 		System.out.println("9.check if string1 ends with 'S':"+str1.endsWith("S"));
 		System.out.println("20.check if string1 matches str2:"+str1.matches(str2));
+		
 	}
 
 }
