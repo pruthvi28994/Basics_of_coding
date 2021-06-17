@@ -22,7 +22,7 @@ public class java_HashSet {
 		names.add("Sachin");
 		System.out.println(names);
 		
-		//addall u can use this function to add once
+		//add all u can use this function to add once
 		Set<Integer> rollNoCopy=new HashSet<Integer>();
 		rollNoCopy.addAll(rollNo);
 		System.out.println("Duplicate of roll no Using Addall");
