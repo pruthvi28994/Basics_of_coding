@@ -56,4 +56,14 @@ public class Emplyoee {
 		//calling the department class methods
 		eDepartment.print();
 	}
+
+	
+	@Override
+	public String toString() {
+		return "Emplyoee [eId=" + eId + ", eName=" + eName + ", eSalary=" + eSalary + ", eDepartment=" + eDepartment
+				+ "]";
+	}
+	
+	//if you want to print object as string 
+	
 }

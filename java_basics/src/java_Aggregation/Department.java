@@ -36,4 +36,11 @@ public class Department {
 		System.out.println("Dept Name "+dName);
 		System.out.println("Dept Location "+dLocation);
 	}
+	
+	//printing details via tostring format
+	@Override
+	public String toString() {
+		return "Department [dId=" + dId + ", dName=" + dName + ", dLocation=" + dLocation + "]";
+	}
+	
 }
